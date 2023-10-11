@@ -19,7 +19,7 @@ Next, drill any through holes with a 0.1mm drill bit. I have to use a drill pres
 
 Finally, place the electronics through the holes from the back side and solder the pins on the side with copper traces.
 
-Because copper will continue to oxidize, you may want to consider using some lacquer fingernail polish over the traces to protect them from the open air.
+Because copper will continue to oxidize, you may want to consider using some clear fingernail polish over the traces to protect them from the open air.
 
 
 
